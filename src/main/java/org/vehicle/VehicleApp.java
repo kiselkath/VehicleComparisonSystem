@@ -13,9 +13,9 @@ public class VehicleApp
     public static void main( String[] args )
     {
         List<Vehicle> tachki = new ArrayList<>();
-        tachki.add(new Vehicle("Tesla", 2020));
-        tachki.add(new Vehicle("Ford", 2018));
         tachki.add(new Vehicle("Toyota", 2021));
+        tachki.add(new Vehicle("Ford", 2018));
+        tachki.add(new Vehicle("BMW", 2022));
         tachki.add(new Vehicle("Honda", 2020));
 
         System.out.println("====AVAILABLE TACHKI====");
