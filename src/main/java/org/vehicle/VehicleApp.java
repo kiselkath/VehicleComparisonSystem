@@ -4,7 +4,7 @@ package org.vehicle;
  * Hello world!
  *
  */
-public class App 
+public class VehicleApp
 {
     public static void main( String[] args )
     {
